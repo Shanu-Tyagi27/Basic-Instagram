@@ -1,0 +1,17 @@
+body{
+    background-color: #fcd072;
+}
+.img{
+    height: 200px;
+    width: 220px;
+    border-radius: 10%;
+}
+h1{
+    color: maroon;
+}
+.post{
+    background-color: rgb(214, 174, 115);
+}
+.user{
+    font-style: italic;
+}
